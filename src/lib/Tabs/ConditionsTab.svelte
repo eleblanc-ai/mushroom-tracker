@@ -66,7 +66,7 @@
     };
 </script>
 
-<TabItem open title="Conditions">
+<TabItem  title="Conditions">
     <div class="flex flex-col md:flex-row">
         <ConditionCard condition={at_condition}/>
         <ConditionCard condition={rh_condition}/>
